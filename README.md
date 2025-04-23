@@ -12,7 +12,7 @@ This report aims to conduct an in-depth analysis of HomeMart's datasets to ident
 ## Key Features
 - **Data Cleaning and Preprocessing**: Raw sales data was cleaned using R to remove errors, handle missing values, and standardize data formats.
 - **Exploratory Data Analysis (EDA)**: Visualizations and descriptive statistics to understand sales trends, seasonality, and key factors influencing revenue and customer buying behavior.
-- **Power BI Dashboard**: An interactive dashboard to visualize sales trends, performance by region, product category, and time period. The dashboard provides real-time insights into business performance.
+- **Power BI Dashboard**: An interactive dashboard to visualize sales trends, performance by shelf, product category, and time period. The dashboard provides real-time insights into business performance.
 
 ## Tools Used
 - **R**: For cleaning raw data, transforming datasets, and performing statistical analysis.
