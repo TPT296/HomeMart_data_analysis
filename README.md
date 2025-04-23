@@ -15,8 +15,8 @@ This report aims to conduct an in-depth analysis of HomeMart's datasets to ident
 - **Power BI Dashboard**: An interactive dashboard to visualize sales trends, performance by shelf, product category, and time period. The dashboard provides real-time insights into business performance.
 
 ## Tools Used
-- **R**: For cleaning raw data, transforming datasets, and performing statistical analysis.
-- **Power BI**: For creating interactive and user-friendly dashboards with real-time data visualization.
+- **R**: For cleaning raw data and transforming datasets.
+- **Power BI**:  For standardizing datasets using Power Query, executing DAX functions, and developing interactive dashboards with real-time, user-friendly visualizations.
 - **Excel & CSV**: As data sources for cleaning and analysis.
 
 ## Key Insights
