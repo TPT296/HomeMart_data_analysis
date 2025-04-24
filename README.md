@@ -23,7 +23,7 @@ This report aims to conduct an in-depth analysis of HomeMart's datasets to ident
 - Highest Revenue: Occurs on weekends (Saturday and Sunday), with weekdays seeing significantly lower sales.
 - The Dairy Section (Section 3) sees high movement but low interaction, suggesting it is not a key focus area for customers.
 - Frozen, Candy, and Dairy sections show the highest interaction from customers, while Food, Books & Toys, and Household sections have lower customer interest.
-## Recommendations:
+## Recommendations
 - Store Layout Optimization: Focus on serving older customers (60+) in Frozen, Candy, and Dairy sections, and consider upselling opportunities.
 
 - Product Portfolio: Increase visibility and stock for top-selling products, and consider bundling them to increase sales.
