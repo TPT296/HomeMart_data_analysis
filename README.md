@@ -1,4 +1,3 @@
-# HomeMart_retail_analysis
 # Optimizing sales and enhancing customer experience through retail data analysis
 
 This report aims to conduct an in-depth analysis of HomeMart's datasets to identify factors influencing sales and customer behavior. Additionally, by using data analysis and visualization tools, the report will provide management with a comprehensive view of shopping trends and the effectiveness of promotional campaigns, enabling them to make more informed and strategic business decisions.
